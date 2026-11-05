@@ -1,0 +1,6 @@
+{
+  "name": "RefundGo - Refund Intercept & Replacement Engine",
+  "description": "Turn expensive ecommerce refunds into high-margin replacements at the moment of customer choice. Cost-aware decision engine, 2-tap magic flow, automated $0 replacement orders, and chargeback defense trail.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
